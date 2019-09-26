@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/youandme/static/css/main.b100e6da.chunk.css",
-    "main.js": "/youandme/static/js/main.16b1791a.chunk.js",
-    "main.js.map": "/youandme/static/js/main.16b1791a.chunk.js.map",
+    "main.css": "/youandme/static/css/main.9093acdf.chunk.css",
+    "main.js": "/youandme/static/js/main.60ffcbe3.chunk.js",
+    "main.js.map": "/youandme/static/js/main.60ffcbe3.chunk.js.map",
     "runtime-main.js": "/youandme/static/js/runtime-main.d0b828e2.js",
     "runtime-main.js.map": "/youandme/static/js/runtime-main.d0b828e2.js.map",
-    "static/js/2.64b48cb6.chunk.js": "/youandme/static/js/2.64b48cb6.chunk.js",
-    "static/js/2.64b48cb6.chunk.js.map": "/youandme/static/js/2.64b48cb6.chunk.js.map",
+    "static/js/2.d511a253.chunk.js": "/youandme/static/js/2.d511a253.chunk.js",
+    "static/js/2.d511a253.chunk.js.map": "/youandme/static/js/2.d511a253.chunk.js.map",
     "index.html": "/youandme/index.html",
-    "precache-manifest.99ce4bba40ad93b9c1a5950c38cb785d.js": "/youandme/precache-manifest.99ce4bba40ad93b9c1a5950c38cb785d.js",
+    "precache-manifest.a63d27d6b4e6ea415487142830195dd0.js": "/youandme/precache-manifest.a63d27d6b4e6ea415487142830195dd0.js",
     "service-worker.js": "/youandme/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/youandme/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/youandme/static/media/logo.25bf045c.svg"
+    "static/css/main.9093acdf.chunk.css.map": "/youandme/static/css/main.9093acdf.chunk.css.map"
   }
 }
