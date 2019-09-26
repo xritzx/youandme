@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/youandme/static/css/main.4a2ca32e.chunk.css",
-    "main.js": "/youandme/static/js/main.8dd004a0.chunk.js",
-    "main.js.map": "/youandme/static/js/main.8dd004a0.chunk.js.map",
+    "main.css": "/youandme/static/css/main.e72c27ce.chunk.css",
+    "main.js": "/youandme/static/js/main.b965387d.chunk.js",
+    "main.js.map": "/youandme/static/js/main.b965387d.chunk.js.map",
     "runtime-main.js": "/youandme/static/js/runtime-main.d0b828e2.js",
     "runtime-main.js.map": "/youandme/static/js/runtime-main.d0b828e2.js.map",
-    "static/js/2.c56bbfb5.chunk.js": "/youandme/static/js/2.c56bbfb5.chunk.js",
-    "static/js/2.c56bbfb5.chunk.js.map": "/youandme/static/js/2.c56bbfb5.chunk.js.map",
+    "static/js/2.f24d0a93.chunk.js": "/youandme/static/js/2.f24d0a93.chunk.js",
+    "static/js/2.f24d0a93.chunk.js.map": "/youandme/static/js/2.f24d0a93.chunk.js.map",
     "index.html": "/youandme/index.html",
-    "precache-manifest.d057ea164839caa5f65d9db5bdb1891f.js": "/youandme/precache-manifest.d057ea164839caa5f65d9db5bdb1891f.js",
+    "precache-manifest.8abec81b01083941749283caff7dead4.js": "/youandme/precache-manifest.8abec81b01083941749283caff7dead4.js",
     "service-worker.js": "/youandme/service-worker.js",
-    "static/css/main.4a2ca32e.chunk.css.map": "/youandme/static/css/main.4a2ca32e.chunk.css.map",
+    "static/css/main.e72c27ce.chunk.css.map": "/youandme/static/css/main.e72c27ce.chunk.css.map",
     "static/media/babyPanda.jpg": "/youandme/static/media/babyPanda.2abcf6d7.jpg"
   }
 }
