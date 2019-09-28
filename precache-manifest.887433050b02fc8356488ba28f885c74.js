@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f03501a2e45095a846ebf00fe930fa0",
+    "revision": "438c8340f3490bc3baccf35602aa254a",
     "url": "/youandme/index.html"
   },
   {
-    "revision": "b3871288463fb8130c30",
-    "url": "/youandme/static/css/main.988545e7.chunk.css"
+    "revision": "01f3f299f4ba20aa4293",
+    "url": "/youandme/static/css/main.17b2ee65.chunk.css"
   },
   {
-    "revision": "2efcd6409e6dec5a0651",
-    "url": "/youandme/static/js/2.cf8e0b7c.chunk.js"
+    "revision": "37f0fb5132bbf64eb9fe",
+    "url": "/youandme/static/js/2.1688c7b7.chunk.js"
   },
   {
-    "revision": "b3871288463fb8130c30",
-    "url": "/youandme/static/js/main.39e2fe67.chunk.js"
+    "revision": "01f3f299f4ba20aa4293",
+    "url": "/youandme/static/js/main.6ad1bfbd.chunk.js"
   },
   {
     "revision": "67e32987e715d666fbc6",
