@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/youandme/static/css/main.e5a57df8.chunk.css",
-    "main.js": "/youandme/static/js/main.d166f92e.chunk.js",
-    "main.js.map": "/youandme/static/js/main.d166f92e.chunk.js.map",
+    "main.css": "/youandme/static/css/main.98a2e6ee.chunk.css",
+    "main.js": "/youandme/static/js/main.fff66584.chunk.js",
+    "main.js.map": "/youandme/static/js/main.fff66584.chunk.js.map",
     "runtime-main.js": "/youandme/static/js/runtime-main.84a5bbbe.js",
     "runtime-main.js.map": "/youandme/static/js/runtime-main.84a5bbbe.js.map",
-    "static/js/2.75d83bc4.chunk.js": "/youandme/static/js/2.75d83bc4.chunk.js",
-    "static/js/2.75d83bc4.chunk.js.map": "/youandme/static/js/2.75d83bc4.chunk.js.map",
+    "static/js/2.c1ec3f0c.chunk.js": "/youandme/static/js/2.c1ec3f0c.chunk.js",
+    "static/js/2.c1ec3f0c.chunk.js.map": "/youandme/static/js/2.c1ec3f0c.chunk.js.map",
     "index.html": "/youandme/index.html",
-    "precache-manifest.a88f7e07e5e60560029e54a1f053f8a3.js": "/youandme/precache-manifest.a88f7e07e5e60560029e54a1f053f8a3.js",
+    "precache-manifest.d49b082f46628a0f2a576ea74c99ecc8.js": "/youandme/precache-manifest.d49b082f46628a0f2a576ea74c99ecc8.js",
     "service-worker.js": "/youandme/service-worker.js",
-    "static/css/main.e5a57df8.chunk.css.map": "/youandme/static/css/main.e5a57df8.chunk.css.map",
+    "static/css/main.98a2e6ee.chunk.css.map": "/youandme/static/css/main.98a2e6ee.chunk.css.map",
     "static/media/babyPanda.jpg": "/youandme/static/media/babyPanda.2abcf6d7.jpg",
-    "static/media/logo.png": "/youandme/static/media/logo.d1fc27f5.png"
+    "static/media/homeImage.jpg": "/youandme/static/media/homeImage.f9148ac1.jpg",
+    "static/media/logo.png": "/youandme/static/media/logo.c233ee9b.png"
   }
 }
